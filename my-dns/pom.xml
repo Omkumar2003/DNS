@@ -19,6 +19,13 @@
   </properties>
 
   <dependencies>
+  <!-- https://mvnrepository.com/artifact/io.netty/netty-resolver-dns -->
+<dependency>
+    <groupId>io.netty</groupId>
+    <artifactId>netty-resolver-dns</artifactId>
+    <version>4.1.111.Final</version>
+</dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
