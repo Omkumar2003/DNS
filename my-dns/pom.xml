@@ -21,6 +21,13 @@
   <dependencies>
   <!-- https://mvnrepository.com/artifact/io.netty/netty-resolver-dns -->
 <dependency>
+    <groupId>org.dnsjava</groupId>
+    <artifactId>dnsjava</artifactId>
+    <version>3.3.1</version>
+</dependency>
+
+
+<dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-resolver-dns</artifactId>
     <version>4.1.111.Final</version>
