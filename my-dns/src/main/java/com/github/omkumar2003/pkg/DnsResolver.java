@@ -1,3 +1,5 @@
+package com.github.omkumar2003.pkg;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
